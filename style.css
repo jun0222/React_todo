@@ -25,3 +25,13 @@ body {
 .container input[type="checkbox"]{
   margin-right: 5px;
 }
+.cmd{
+  font-size: 12px;
+  cursor: pointer;
+  color: #08c;
+  margin-left: 5px;
+}
+.container input[type="text"]{
+  padding: 2px;
+  margin-right: 5px;
+}
